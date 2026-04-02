@@ -36,7 +36,7 @@ Below is a sample generated ID card:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/idcardgenerator.git
+   git clone https://github.com/your-username/idcardgeneratorr.git
    ```
 
 2. Open the project in Visual Studio
